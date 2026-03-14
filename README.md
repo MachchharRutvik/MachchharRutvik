@@ -70,16 +70,6 @@ Building enterprise-grade web apps with React.js, Angular & Node.js
 
 ---
 
-## 📊 GitHub Stats
-
-![Rutvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MachchharRutvik&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MachchharRutvik&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MachchharRutvik&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvik-machchhar)
